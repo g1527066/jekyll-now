@@ -1,0 +1,10 @@
+---
+layout:post
+title:初めてのjekyll
+ー---
+
+
+次にリポジトリのルートにある_cofig.ymlのサイト名変更しよう
+![  config.yml]({{ site.baseurl}}image/config.png)
+
+The easiest way
